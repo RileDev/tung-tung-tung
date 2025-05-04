@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Consolas', sans-serif;
+}
+
+body{
+    background: url('./bg.jpg') center no-repeat;
+}
+
+input{
+    width: 60%;
+    height: 40px;
+    padding: 10px;
+}
+
+.text-container{
+    background: white;
+}
+
+h1, a{
+    color: black;
+}
+
+span{
+    color: red;
+}
